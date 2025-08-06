@@ -26,7 +26,7 @@ const slideImages: SlideData[] = [
   {
     src: slide01.src,
     alt: "Interior moderno de automóvil",
-    title: "En Wild Cars",
+    title: "En Massant Motors",
     subtitle: "Tu próximo auto te está esperando",
   },
   {
